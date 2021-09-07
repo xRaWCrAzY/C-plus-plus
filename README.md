@@ -1,5 +1,14 @@
-**# C++ AVL-Self-Balancing Binary Tree**
+# Kompiuterių parduotuvės programa.cpp<br/>
+Čia - Objektinio programavimo - paskaitos egzamino darbas:<br/>
+Pažymys - 10
 
+Užduotis buvo naudojant klases su setters ir getters padaryti programą į kurią būtų galima pridėti kompiuterio detales(CPU, GPU), jas atvaizduoti ir sujungti, apskaičiuoti jų bendrą kainą. Ir sudėti viską į bendrą sąrašą.
+
+<br/><br/>
+
+# AVL-Self-Balancing Binary Tree.cpp<br/>
+Čia - Duomenų struktūros ir algoritmai - paskaitos paskutinis atsiskaitomasis darbas:<br/>
+Pažymys - 10<br/>
 
 Užduotis buvo sukurti programą kuri galėtų valdyti binarinio medžio duomenų (self-balancing binary tree) struktūrą pasinaudojant switch case meniu pagalba.
 
@@ -12,8 +21,10 @@ Užduoties techniniai reikalavimai:
 6.	Programa turi sugebėti išvesti kiek elementų yra medyje.
 7.	Programa turi sugebėti patikrinti ar medis yra teisingos struktūros. 
 8.	Programa turi sugebėti patikrinti ar yra tam tikras node struktūroje su nurodytu raktu.
+<br/><br/><br/><br/><br/><br/>
 
-<br/><br/>
-*Failo neredagavau, palikau, taip kaip buvau parašęs originaliai.*<br/>
-*Viską rašiau per „Visual Studio: IDE“.*<br/>
+
+
+*Visus failus palikau taip, kaip buvau parašęs originaliai.*<br/>
+*Programas rašiau per „Visual Studio“.*<br/>
 
