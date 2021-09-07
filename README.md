@@ -1,4 +1,4 @@
-**# C++ pavyzdys 2**
+**# C++ AVL-Self-Balancing Binary Tree**
 
 
 Užduotis buvo sukurti programą kuri galėtų valdyti binarinio medžio duomenų (self-balancing binary tree) struktūrą pasinaudojant switch case meniu pagalba.
@@ -16,6 +16,4 @@ Užduoties techniniai reikalavimai:
 <br/><br/>
 *Failo neredagavau, palikau, taip kaip buvau parašęs originaliai.*<br/>
 *Viską rašiau per „Visual Studio: IDE“.*<br/>
-*Įkelta .cpp failas – čia tiesiog kodas.*<br/>
-*Įkelta ir Pilnas folderis – čia pilnas „Visual Studio“ kodo folderis, jei vienas kodas neveiktų.*<br/>
 
